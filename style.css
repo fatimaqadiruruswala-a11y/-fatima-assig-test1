@@ -1,0 +1,96 @@
+*{
+    padding: 0
+    
+
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.hero{
+    background-color: rgba(60, 240, 253, 0.836);
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+  width: 800px;
+  height: 760px; 
+ 
+    
+}
+.hero button{
+    font-size: medium;
+    color: black;
+    padding: 60px;
+    
+
+    
+
+}
+
+.hero{
+
+    background-color: darkgrey;
+}
+.img1{
+    width: 20px;
+    
+}
+button{
+    width: 10px;
+    height: 10px;
+    text-align: center;
+}
+
+.icon img{
+height: 150px;
+    width: 200px;
+    gap: 80px;
+    transition: transform 0.2s ease-in-out;
+
+}
+.icon img:hover{
+  transform: scale(1.1);
+}
+
+.hero-2{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+}
+.hero-2{
+    height: 700px;
+    width: 800px;
+}
+.hero-2 button{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
